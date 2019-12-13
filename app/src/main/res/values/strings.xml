@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetrofitKotlinExampleApp</string>
+
+    <string name="enter_search_title">Enter your search below.\nWe\'ll tell you how many hits you get ;).</string>
+
+    <string name="enter_search_hint">Enter your search…</string>
+
+    <string name="search_button_text">SEARCH</string>
+
+    <string name="result_text">There are %s hits for \'%s\'.</string>
+</resources>
